@@ -49,9 +49,6 @@ Below is a GIF showing the live validation flow and navigation behavior of the a
 
 ![Application Flow Demo](ss/ssv.gif)
 
-> [!NOTE]
-> The screenshots and GIFs are linked using **relative paths** (`ss/ss.jpeg` and `ss/ssv.gif`). This ensures that the images and walkthrough animations will render correctly on your GitHub repository page once pushed.
-
 ---
 
 ## 🚀 How to Run the Project
